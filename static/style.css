@@ -1,7 +1,12 @@
 body {
-
+      background-color: powderblue;
 }
 
 #content {
      margin-left: 20px;
+}
+
+
+div {
+    text-align: justify;
 }
